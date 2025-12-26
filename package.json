@@ -1,0 +1,19 @@
+{
+  "name": "ofa-signature-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.26",
+    "libphonenumber-js": "^1.12.33",
+    "next": "^14.2.35",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-easy-crop": "5.0.5"
+  }
+}
