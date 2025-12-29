@@ -241,7 +241,7 @@ export default function Page() {
 
         <div className="videoFrame">
           <iframe
-            src="https://www.youtube-nocookie.com/embed/TON_ID_VIDEO?rel=0"
+            src="https://youtu.be/hIU6o1F3_Hc"
             title="Tutoriel signature OFA"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
