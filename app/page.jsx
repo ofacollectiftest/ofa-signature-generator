@@ -229,14 +229,14 @@ export default function Page() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.45, delay: 0.05 }}
         >
-          Crée ta signature mail <span className="accent">pro</span> en 2 minutes
+          Crée ta signature email <span className="accent">pro</span> en 2 minutes
         </motion.h1>
 
         <MascotCow />
       </section>
       <section className="tutorialCard">
         <div className="tutorialHead">
-          <h2 className="tutorialTitle">Tutoriel : comment créer ta siganture et l'enregistrer sur Gmail</h2>
+          <h2 className="tutorialTitle">Tutoriel : comment créer ta signature et l'enregistrer sur Gmail</h2>
         </div>
 
         <div className="videoFrame">
