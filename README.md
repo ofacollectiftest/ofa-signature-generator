@@ -1,4 +1,4 @@
-# OFA — Générateur de signature Gmail (Option B / Next.js)
+# OFA — Générateur de signature Gmail (Next.js)
 
 MVP : **photo → recadrage rond → upload GitHub → génération signature HTML → copier/coller dans Gmail**.
 
@@ -7,7 +7,7 @@ MVP : **photo → recadrage rond → upload GitHub → génération signature HT
 - Un repo GitHub **public** pour héberger les images (sinon les destinataires ne verront pas la photo)
 - Un token GitHub (fine‑grained recommandé) avec accès **Contents: Read/Write** sur ce repo
 
-## 2) Recommandations repo GitHub (propre & conventionnel)
+## 2) Recommandations repo GitHub (propre et conventionnel)
 Créer un repo dédié aux assets de signature, par ex :
 - `ofa-signatures-assets` (public)
 - branche `main`
